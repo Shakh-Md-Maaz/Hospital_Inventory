@@ -1,0 +1,16 @@
+ context.Products.AddOrUpdate(x => x.ProductID,
+              new Product() { ProductID = 1, ProductName = "Mask", Price = 100, Quantity = 50, ProductExpDate = System.DateTime.Parse("2005-09-01"), IsDeleted = false, tSupplierID = 1 },
+              new Product() { ProductID = 2, ProductName = "PPE", Price = 100, Quantity = 50, ProductExpDate = System.DateTime.Parse("2005-09-01"), IsDeleted = false, tSupplierID = 2 },
+              new Product() { ProductID = 3, ProductName = "Sanitaizer", Price = 100, Quantity = 50, ProductExpDate = System.DateTime.Parse("2005-09-01"), IsDeleted = false, tSupplierID = 3 }
+            );
+
+            context.Suppliers.AddOrUpdate(x => x.tSupplierID,
+            new tSupplier() { tSupplierID = 1, CompanyName = "BEXIMCO", CompanyAddress = "Dhaka", MobileNO = "01711121315" },
+            new tSupplier() { tSupplierID = 2, CompanyName = "Square pharmaceuticals", CompanyAddress = "Gazipur", MobileNO = "01711121412" },
+            new tSupplier() { tSupplierID = 3, CompanyName = "Renata pharma", CompanyAddress = "Khulna", MobileNO = "01715561315" }
+            );
+
+            context.Users.AddOrUpdate(x => x.UserID,
+            new User() { UserID = 1, UserName = "maaz", Password = "maaz123", Role = "Admin" },
+            new User() { UserID = 2, UserName = "imran", Password = "imran123", Role = "Hr" }
+            );

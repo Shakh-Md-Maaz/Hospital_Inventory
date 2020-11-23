@@ -1,0 +1,45 @@
+﻿@model IEnumerable<InventoryManagement.Models.tSupplier>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            <h4>Info</h4>
+        </div>
+        <div class="card-body" style="color:black">
+            <table class="table table-responsive">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CompanyName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CompanyAddress)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MobileNO)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CompanyName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CompanyAddress)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MobileNO)
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>

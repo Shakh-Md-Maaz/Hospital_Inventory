@@ -1,0 +1,533 @@
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll.config
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.pdb
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.xml
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.xml
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.xml
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.xml
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CopyComplete
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\MvcProject\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.xml
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll.config
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.pdb
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe.config
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.rsp
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe.config
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.rsp
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Console.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe.config
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.rsp
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.xml
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.xml
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.xml
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.xml
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.xml
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.xml
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nishat\Downloads\MvcProject\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CopyComplete
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll.config
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.pdb
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe.config
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.rsp
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe.config
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.rsp
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Console.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe.config
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.rsp
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.xml
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.xml
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.xml
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.xml
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.xml
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.xml
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CopyComplete
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.dll
+C:\Users\Nishat\Desktop\MVC\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll.config
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.pdb
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe.config
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Console.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.xml
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.xml
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.xml
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.xml
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CopyComplete
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.dll
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.pdb
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll.config
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.pdb
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe.config
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.rsp
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe.config
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.rsp
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.AppContext.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Console.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Compression.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.AccessControl.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Claims.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.ValueTuple.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe.config
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.rsp
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.xml
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.xml
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.xml
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.xml
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.xml
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.xml
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.xml
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.xml
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.xml
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csprojAssemblyReference.cache
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CopyComplete
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.dll
+D:\Suvo R42\Shuvo\Asp.netMvc\Project\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.Migrations.init.resources
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.Migrations.inites.resources
+D:\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll.config
+D:\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.pdb
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe.config
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.rsp
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe.config
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.rsp
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.AppContext.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Console.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Compression.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.AccessControl.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Claims.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Principal.Windows.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.ValueTuple.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe.config
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.rsp
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe
+D:\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.dll
+D:\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.xml
+D:\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.xml
+D:\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.xml
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.xml
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.xml
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.xml
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.xml
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.xml
+D:\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.xml
+D:\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csprojAssemblyReference.cache
+D:\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+D:\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CopyComplete
+D:\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.dll
+D:\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.pdb
+D:\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.Migrations.exammvc1.resources
+D:\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
+D:\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.Migrations.addRole.resources
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll.config
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\InventoryManagement.pdb
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.exe.config
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\csc.rsp
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.exe.config
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\csi.rsp
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.AppContext.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Console.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Compression.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.IO.Pipes.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.AccessControl.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Claims.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Security.Principal.Windows.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.ValueTuple.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.exe.config
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\vbc.rsp
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.xml
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\EntityFramework.SqlServer.xml
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\Newtonsoft.Json.xml
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Razor.xml
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.xml
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Deployment.xml
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Webpages.Razor.xml
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Helpers.xml
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\System.Web.Mvc.xml
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csprojAssemblyReference.cache
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.CopyComplete
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.dll
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.pdb
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.Migrations.init.resources
+D:\All Project\MVC\Shake Md. Maaz 1253242\InventoryManagementSLN\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
